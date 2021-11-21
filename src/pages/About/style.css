@@ -1,0 +1,83 @@
+.bgAbout {
+  background-image: url("../../images/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 1020px;
+  
+}
+.cardmain{
+  margin: 30px 30px 30px;
+  float:left;
+  width: 500px;
+  height: 500px;
+}
+ .cardmain :hover{
+  background-image: url("../../images/a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  
+  font-weight: 500;
+
+
+}
+.cardAbout{
+ 
+  width: 285px;
+  height: 30px;
+
+}
+.cardList {
+  float: right;
+  text-align: center;
+  align-items: center;
+  margin: 10px 100px 100px 0;
+}
+
+.card {
+  margin-top: 2.5px;
+
+  cursor: pointer;
+  width: 18rem !important;
+}
+
+.card1:hover {
+  background-image: url("../../images/hospital1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  z-index: 1;
+  font-weight: 500;
+}
+
+.card2:hover {
+  background-image: url("../../images/hospital2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  z-index: 1;
+  font-weight: 500;
+}
+.card3:hover {
+  background-image: url("../../images/hospital3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  z-index: 1;
+  font-weight: 500;
+}
+.card4:hover {
+  background-image: url("../../images/hospital4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+  z-index: 1;
+  font-weight: 500;
+}
+
+.cardText {
+  height: 150px;
+  opacity: 1;
+  z-index: 2;
+}

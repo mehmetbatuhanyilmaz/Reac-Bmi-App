@@ -1,0 +1,52 @@
+.containerRes {
+  background-color: #929292;
+  border-radius:20px ;
+ width: 760px;
+ margin:50px 10px 10px 365px;
+ display:flex;
+ 
+ 
+}
+
+.resBalon {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  background-color: #666;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+
+
+.resBalon p {
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  font-size:1em;
+  font-weight: 400;
+}
+
+.resBalon span {
+  font-size: 1.2em;
+  margin-top: 2px;
+  font-weight: 600;
+}
+
+.idealWeight {
+  color: rgb(255, 152, 0);
+  float: left;
+  width: 100%;
+  font-size: 1.6em;
+  font-weight: 800;
+  margin-top: 10px;
+}
+
+.weightPost {
+  float: left;
+  width: 100%;
+  color: #666;
+  font-size: 1.1em;
+  margin-top: 10px;
+}
